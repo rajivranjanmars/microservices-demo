@@ -168,4 +168,4 @@ Find **Protocol Buffers Descriptions** at the [`./protos` directory](/protos).
 
 ## Fork author and maintainer
 
-[rajivranjanmars](https://rajivranjana.in) maintains this repository. Original project authors, licenses, and upstream credits are retained.
+[Rajiv Ranjan](https://rajivranjan.in) maintains this repository. Original project authors, licenses, and upstream credits are retained.
