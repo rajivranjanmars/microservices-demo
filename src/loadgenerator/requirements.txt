@@ -6,9 +6,9 @@
 #
 blinker==1.9.0
     # via flask
-brotli==1.2.0
+brotli==1.2.1
     # via geventhttpclient
-certifi==2026.7.22
+certifi==2026.10.18
     # via
     #   geventhttpclient
     #   requests
@@ -37,7 +37,7 @@ geventhttpclient==2.3.1
     # via locust
 greenlet==3.0.3
     # via gevent
-idna==3.15
+idna==3.20
     # via requests
 itsdangerous==2.2.0
     # via flask
@@ -50,7 +50,7 @@ markupsafe==2.1.5
     #   flask
     #   jinja2
     #   werkzeug
-msgpack==1.2.1
+msgpack==1.2.3
     # via locust
 psutil==5.9.8
     # via locust
@@ -58,7 +58,7 @@ python-dateutil==2.9.0.post0
     # via faker
 pyzmq==26.0.2
     # via locust
-requests==2.33.0
+requests==2.34.2
     # via locust
 roundrobin==0.0.4
     # via locust
